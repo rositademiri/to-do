@@ -1,0 +1,7 @@
+#Ignore all exe files
+*.exe
+
+
+##Except output .exe
+!output.exe
+
